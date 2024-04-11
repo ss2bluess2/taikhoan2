@@ -1,2 +1,5 @@
 this is content of text2.txt from tk2 repo(ss2bluess2) 
 update
+
+
+khong pha nha
