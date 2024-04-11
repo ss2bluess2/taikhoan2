@@ -7,3 +7,4 @@ web
 
 pha cmm
 
+1: tao noi dung sinh conflict 
